@@ -1,7 +1,7 @@
 # 🟢 MERN Chat App
 
 A **real-time chat application** built with the **MERN stack** (MongoDB, Express, React, Node.js), using **Redux** for state management and **Vite** as the frontend build tool.  
-Supports real-time messaging, multiple chat rooms, and user authentication.
+Supports real-time messaging, and user authentication.
 
 ---
 
